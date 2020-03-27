@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e10a6a8a.chunk.css",
+    "main.js": "/static/js/main.17dc1dfa.chunk.js",
+    "main.js.map": "/static/js/main.17dc1dfa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
+    "static/js/2.c49a106d.chunk.js": "/static/js/2.c49a106d.chunk.js",
+    "static/js/2.c49a106d.chunk.js.map": "/static/js/2.c49a106d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.79778dcf2bff3ccc0d6e2775bf2716fb.js": "/precache-manifest.79778dcf2bff3ccc0d6e2775bf2716fb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e10a6a8a.chunk.css.map": "/static/css/main.e10a6a8a.chunk.css.map",
+    "static/js/2.c49a106d.chunk.js.LICENSE.txt": "/static/js/2.c49a106d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/Formular.b970ba71.woff",
+    "static/media/benefits-img.svg": "/static/media/benefits-img.9ed94fbf.svg",
+    "static/media/crypto-font.svg": "/static/media/crypto-font.ebfb8419.svg",
+    "static/media/index.module.scss": "/static/media/footer-name.4158ba6b.svg",
+    "static/media/logo.svg": "/static/media/logo.8134a303.svg",
+    "static/media/mobile-menu-active.svg": "/static/media/mobile-menu-active.8bc612da.svg",
+    "static/media/mobile-menu.svg": "/static/media/mobile-menu.219c1bd5.svg",
+    "static/media/para-sky.svg": "/static/media/para-sky.b616cd27.svg",
+    "static/media/para-star.svg": "/static/media/para-star.b35d1822.svg",
+    "static/media/simple-code.png": "/static/media/simple-code.a640bcae.png",
+    "static/media/simple-hexagon.svg": "/static/media/simple-hexagon.a44236f8.svg",
+    "static/media/simple-squad.svg": "/static/media/simple-squad.54f03324.svg",
+    "static/media/work-crypto-second-menu.svg": "/static/media/work-crypto-second-menu.98a059a2.svg",
+    "static/media/work-crypto.svg": "/static/media/work-crypto.5bd52675.svg",
+    "static/media/work-money.svg": "/static/media/work-money.d3c77547.svg",
+    "static/media/work-qr.svg": "/static/media/work-qr.446ca525.svg",
+    "static/media/work-squad.svg": "/static/media/work-squad.9ba93876.svg",
+    "static/media/work-switch-second-menu.svg": "/static/media/work-switch-second-menu.5ee00075.svg",
+    "static/media/work-switch.svg": "/static/media/work-switch.b4b7e1d4.svg",
+    "static/media/works-line.svg": "/static/media/works-line.4d281ae8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c5b4be.js",
+    "static/js/2.c49a106d.chunk.js",
+    "static/css/main.e10a6a8a.chunk.css",
+    "static/js/main.17dc1dfa.chunk.js"
+  ]
+}

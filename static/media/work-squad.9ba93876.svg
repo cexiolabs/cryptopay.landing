@@ -1,0 +1,15 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13.5 1H117C121.418 1 125 4.58172 125 9V124.5" stroke="#5B59EE" stroke-width="2" stroke-linejoin="round"/>
+<path d="M113 124.5L9.5 124.5C5.08172 124.5 1.5 120.918 1.5 116.5L1.5 1" stroke="#242D3C" stroke-width="2" stroke-linejoin="bevel"/>
+<rect x="16" y="14" width="97" height="97" rx="8" fill="white" stroke="#242D3C" stroke-width="2"/>
+<circle cx="65" cy="62" r="27" stroke="#5B59EE" stroke-width="2"/>
+<circle cx="65" cy="62" r="12" fill="white" stroke="#242D3C" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65.0001 54.8108C61.0345 54.8108 57.8098 58.0355 57.8098 61.9999C57.8098 65.9645 61.0345 69.1892 65.0001 69.1892C68.9635 69.1892 72.1891 65.9645 72.1891 61.9999C72.1891 58.0355 68.9635 54.8108 65.0001 54.8108ZM65.0001 70C60.5887 70 57 66.4113 57 61.9999C57 57.5887 60.5887 54 65.0001 54C69.4103 54 72.999 57.5887 72.999 61.9999C72.999 66.4113 69.4103 70 65.0001 70V70Z" fill="#5C59EE"/>
+<circle cx="95.5" cy="94.5" r="5.5" stroke="#242D3C" stroke-width="2"/>
+<path d="M9.5 43.5H15.5" stroke="#242D3C" stroke-width="2"/>
+<path d="M9.5 83H15.5" stroke="#242D3C" stroke-width="2"/>
+<path d="M46 62H57" stroke="#242D3C" stroke-width="2"/>
+<path d="M73 62H84" stroke="#242D3C" stroke-width="2"/>
+<path d="M64.4569 43.5001V54.5001" stroke="#242D3C" stroke-width="2"/>
+<path d="M64.5431 69.4999V80.4999" stroke="#242D3C" stroke-width="2"/>
+</svg>
