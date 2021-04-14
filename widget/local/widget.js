@@ -1,7 +1,7 @@
 
 (function () {
 
-    var gateUrl = "http://127.0.0.1:38080";
+    var gateUrl = "http://127.0.0.1:3000";
     var gateOrigin = new URL(gateUrl).origin;
     var iframeId = "cpw" + (new Date().getTime()).toString();
     var iframe = null;
